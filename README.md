@@ -39,3 +39,5 @@ pip install pandas pillow torch transformers requests sentence-transformers
 [text](https://arxiv.org/html/2409.11860v1)
 
 [text](https://colab.research.google.com/drive/1UrS-_MuxWtvjQGgVCIMydR_iF51SOgli#scrollTo=M1joSIhfULe0&uniqifier=1)
+
+[Flipkart_data](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)

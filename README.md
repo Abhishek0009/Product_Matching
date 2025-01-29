@@ -36,8 +36,8 @@ pip install pandas pillow torch transformers requests sentence-transformers
 ## REFERENCES
 [https://www.semanticscholar.org/paper/E-Commerce-Product-Matching-at-Internet-Scale-Sortur-Rajpoot/4bf61ee288cdc4d62dcec6289d80d3b7c6571744](https://www.semanticscholar.org/paper/E-Commerce-Product-Matching-at-Internet-Scale-Sortur-Rajpoot/4bf61ee288cdc4d62dcec6289d80d3b7c6571744)
 
-[text](https://arxiv.org/html/2409.11860v1)
+[MMLLM BASED PAPER Link](https://arxiv.org/html/2409.11860v1)
 
-[text](https://colab.research.google.com/drive/1UrS-_MuxWtvjQGgVCIMydR_iF51SOgli#scrollTo=M1joSIhfULe0&uniqifier=1)
+[Colab Link](https://colab.research.google.com/drive/1UrS-_MuxWtvjQGgVCIMydR_iF51SOgli#scrollTo=M1joSIhfULe0&uniqifier=1)
 
 [Flipkart_data](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
